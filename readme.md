@@ -1,10 +1,11 @@
 <h1 align="center">
-  Atividade Final - LTP 
+  API - Notices
 </h1>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-alunos">Alunos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-executar-projeto">Alunos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-alunos">Executar Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-professores">Professores</a>
 </p>
 
@@ -15,6 +16,16 @@
 ## 💻 Projeto
 
 Uma aplicação web na qual é apresentada uma lista de notícias, com uma notícia destaque carregadas por meio de uma API fornecida pelos professores.
+
+## 🗂 Executar Projeto
+
+```bash
+# Clonar Projeto.
+$ git clone https://github.com/Arthur-SD15/API-Notices.git
+
+# Pelo VSCode, instalar a extensão 'Live Server'.
+# Abrir a aplicação, pelo 'Live Server'.
+ ```
 
 ## 🧑 Alunos
 
